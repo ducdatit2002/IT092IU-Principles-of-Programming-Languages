@@ -1,0 +1,1 @@
+Prog(BinOp(BinOp(BinOp(BinOp(BinOp(BinOp(IDF(T), +, IDF(M)), +, IDF(D)), +, IDF(D)), +, IDF(HCMIU)), -, IDF(university)), -, INT(2003)))
